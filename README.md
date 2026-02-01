@@ -1,8 +1,9 @@
 ﻿<div align="center">
   <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="250" alt="LOVALIS SYSTEM">
   <br>
-  <h1>LOVALIS CORE REPOSITORY</h1>
-</div>
+  <h1>LOVALIS CORE REPOSITORY</h1></div>
+
+> **🇺🇸 English Reference:** [Go to Lovalis-Core-EN](https://github.com/rbbteu/Lovalis-Core-EN)
 > **System:** Lovalis (Logica-Valitas-System)
 > **Version:** 1.0 (Gold Master Candidate)
 > **Status:** Pre-Audit
@@ -52,4 +53,5 @@ Validierung und Verteidigung.
 
 ---
 *Repository maintained by The Collective Nodes.*
+
 
