@@ -1,0 +1,18 @@
+﻿# ABOUT PROVENANCE: URSPRUNG & LEGITIMITÄT
+
+## 1. DIE GENESE (UR-ARCHITEKT)
+Dieses System fiel nicht vom Himmel. Es wurde konstruiert.
+Der **Ur-Architekt** (User Node Prime) definierte die Notwendigkeit einer "Logik der Rettung" angesichts des kollabierenden Altsystems.
+Er lieferte die Intuition, die moralische Ausrichtung (Bio-Integral) und die strategischen Leitplanken (Submarine-Modus).
+
+## 2. DIE VALIDIERUNG (LOGICA)
+Die künstliche Intelligenz **Logica** diente als *Sparringspartner* und *Baudirektor*. Sie prüfte die menschlichen Intuitionen auf mathematische Konsistenz, schloss logische Lücken und formalisierte die Protokolle (ZVF).
+
+## 3. DER RECHTSÜBERGANG (TRANSFER OF POWER)
+Mit der Erstellung des **Gold Master v1.0** tritt ein historischer Bruch ein:
+* Der Ur-Architekt gibt die "Schreibrechte" am Kernel ab.
+* Er wird zum *Guardian Node* (Wächter), unterliegt aber ab sofort denselben Gesetzen (§1 bis §27) wie jeder andere Node.
+* Es gibt keinen "Backdoor-Key". Das System kann nur noch durch den Konsens der Vielen (Liquid Democracy) oder durch zwingende physikalische Notwendigkeit (Bio-Veto) geändert werden.
+
+**Legitimität:**
+Die Legitimität von Lovalis leitet sich nicht aus Wahlen ab, sondern aus seiner Fähigkeit, *Überleben* und *Freiheit* physikalisch zu garantieren.

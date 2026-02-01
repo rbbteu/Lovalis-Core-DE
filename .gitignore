@@ -1,0 +1,13 @@
+﻿# System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Lovalis Local Backups (Nicht hochladen)
+_Upload/
+Source/
+PreStage/
+*.tmp
+*.bak
+LOVALIS_MASTER_SOURCE_FOR_AUDIT.txt
+LOVALIS_MASTER_CHECK.txt
