@@ -1,0 +1,30 @@
+﻿name: Deploy to IPFS (Permaweb)
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ipfs-deploy:
+    runs-on: ubuntu-latest
+    name: Pin to IPFS via Pinata
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Pin to IPFS
+        uses: aquiladev/ipfs-action@v0.3.1
+        id: deploy
+        with:
+          path: './'
+          service: pinata
+          pinataKey: ${{ secrets.PINATA_API_KEY }} # Fallback (nicht genutzt wenn JWT da ist)
+          pinataSecret: ${{ secrets.PINATA_SECRET_KEY }} # Fallback
+          pinataJWT: ${{ secrets.PINATA_JWT }} # DER WICHTIGE KEY
+          verbose: true
+
+      - name: Output IPFS Hash
+        run: |
+          echo "The hash is: ${{ steps.deploy.outputs.hash }}"
+          echo "Public URL: https://gateway.pinata.cloud/ipfs/${{ steps.deploy.outputs.hash }}"
