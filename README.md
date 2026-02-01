@@ -3,11 +3,10 @@
   <br>
   <h1>LOVALIS CORE REPOSITORY</h1></div>
 
-> **🇺🇸 English Reference:** [Go to Lovalis-Core-EN](https://github.com/rbbteu/Lovalis-Core-EN)
 > **System:** Lovalis (Logica-Valitas-System)
-> **Version:** 1.0 (Gold Master Candidate)
-> **Status:** Pre-Audit
-> **Docs:** [System Certificate](00_META_DOCS/SYSTEM_INTEGRITY_CERTIFICATE.md)
+> **Version:** 1.0 (Gold Master)
+> **Status:** GOLD MASTER (AUDITED)
+> **Docs:** [System-Zertifikat](00_META_DOCS/SYSTEM_INTEGRITY_CERTIFICATE.md) | [Technisches Datenblatt](00_META_DOCS/AUDIT_PROTOCOL_DATA_SHEET.md)
 
 ---
 
@@ -53,5 +52,6 @@ Validierung und Verteidigung.
 
 ---
 *Repository maintained by The Collective Nodes.*
+
 
 
