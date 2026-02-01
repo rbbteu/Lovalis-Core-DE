@@ -1,21 +1,19 @@
-﻿<div align="center">
-  <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="250" alt="LOVALIS SYSTEM">
-  <br>
-  <h1>LOVALIS KOMPENDIUM - GOLD MASTER</h1>
-</div>
-> **Version:** 1.0
-> **Build:** 20260201-1034
-> **Certificate:** [View Certificate](00_META_DOCS/SYSTEM_INTEGRITY_CERTIFICATE.md)
+﻿<div align='center'><img src='99_ASSETS/VISUALS/logo_lovalis_master.svg' width='250'><br><h1>LOVALIS KOMPENDIUM - GOLD MASTER</h1></div>
 
-Dieses Dokument enthält den vollständigen Quellcode der Gesellschafts-Architektur.
+> **Version:** 1.0 (Final Sealed)
+> **Status:** GOLD MASTER (AUDITED)
+> **Hash-Basis:** 2026-02-01 11:56
 
 ---
 
 
-<a name='MANIFEST_V1.md'></a>
 >>> MODUL: MANIFEST_V1.md <<<
 ---
-# LOVALIS MANIFEST: LIBERTAS PER STRUCTURAM
+<div align="center">
+  <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="200" alt="LOVALIS MANIFEST">
+  <br>
+  <h1>LOVALIS MANIFEST: LIBERTAS PER STRUCTURAM</h1>
+</div>
 > **Version:** 1.0 (Declaration of Axioms)
 > **Typus:** Fundamentales System-Postulat
 > **Status:** Unveränderlich
@@ -41,6 +39,10 @@ Wir definieren Lovalis nicht durch das, was es ist, sondern durch das, was es **
 ---
 
 ## ARTIKEL II: DIE AXIOMATISCHE BASIS (E > Ö > T)
+
+> **VISUALISIERUNG:** Die Axiomatische Hierarchie
+> <br><img src="99_ASSETS/VISUALS/diagram_zvf_blueprint_v3.svg" width="100%">
+<br>
 
 Die Architektur ruht auf einer nicht-invertierbaren Hierarchie der Werte:
 
@@ -68,14 +70,18 @@ Dies ist kein Vorschlag. Dies ist eine Spezifikation für das Überleben der men
 > [Zur Axiomatik (Kernel)](01_KERNEL/01_COMPENDIUM.md)
 
 
-<a name='README.md'></a>
+
 >>> MODUL: README.md <<<
 ---
-# LOVALIS CORE REPOSITORY
+<div align="center">
+  <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="250" alt="LOVALIS SYSTEM">
+  <br>
+  <h1>LOVALIS CORE REPOSITORY</h1></div>
+
 > **System:** Lovalis (Logica-Valitas-System)
-> **Version:** 1.0 (Gold Master Candidate)
-> **Status:** Pre-Audit
-> **Docs:** [System Certificate](00_META_DOCS/SYSTEM_INTEGRITY_CERTIFICATE.md)
+> **Version:** 1.0 (Gold Master)
+> **Status:** GOLD MASTER (AUDITED)
+> **Docs:** [System-Zertifikat](00_META_DOCS/SYSTEM_INTEGRITY_CERTIFICATE.md) | [Technisches Datenblatt](00_META_DOCS/AUDIT_PROTOCOL_DATA_SHEET.md)
 
 ---
 
@@ -123,7 +129,9 @@ Validierung und Verteidigung.
 *Repository maintained by The Collective Nodes.*
 
 
-<a name='FIRST_CONTACT_PROTOCOLS.md'></a>
+
+
+
 >>> MODUL: FIRST_CONTACT_PROTOCOLS.md <<<
 ---
 # FIRST CONTACT PROTOCOLS (ONBOARDING)
@@ -162,7 +170,6 @@ Du bist nun ein Node. Jetzt brauchst du ein Cluster.
 **Willkommen in der Realität.**
 
 
-<a name='ABOUT_PROVENANCE.md'></a>
 >>> MODUL: ABOUT_PROVENANCE.md <<<
 ---
 # ABOUT PROVENANCE: URSPRUNG & LEGITIMITÄT
@@ -185,15 +192,8 @@ Mit der Erstellung des **Gold Master v1.0** tritt ein historischer Bruch ein:
 Die Legitimität von Lovalis leitet sich nicht aus Wahlen ab, sondern aus seiner Fähigkeit, *Überleben* und *Freiheit* physikalisch zu garantieren.
 
 
-<a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 01_KERNEL\01_COMPENDIUM.md <<<
 ---
-<div align="right">
-  <img src="99_ASSETS/VISUALS/logo_logica_core.svg" width="60" alt="Logica AI">
-  <br>
-  <sub>LOGICA CORE LOGIC</sub>
-</div>
-
 # BUCH I: KERNEL (DIE PHYSIK DES SYSTEMS)
 > **Quelle:** Fusion (GER Core + Valitas Origin)
 > **Status:** Gold Master / Remastered
@@ -218,10 +218,6 @@ Wir bauen hier keine "Ideologie", sondern eine Maschine. Eine Maschine, in der M
 ## KAPITEL 1: DIE AXIOMATIK (DIE NATURGESETZE)
 
 ### §1 Der Thermodynamische Imperativ (ZVF)
-
-> **VISUALISIERUNG:** ZVF Logic Gate Architecture
-> <br><img src="99_ASSETS/VISUALS/diagram_zvf_blueprint_v3.svg" width="100%">
-<br>
 
 **Logik (Das Axiom):**
 Das Universum tendiert zu Chaos (Entropie). Leben ist der Kampf gegen Entropie (Ordnung). Ein soziales System darf keine Entropie erzeugen (Leid/Verschwendung), sondern muss sie minimieren.
@@ -395,15 +391,8 @@ Die 12 Anker sind nicht linear, sondern in funktionale Domänen unterteilt, die 
 ---
 
 
-<a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 02_VALITAS\01_COMPENDIUM.md <<<
 ---
-<div align="center">
-  <br><br>
-  <img src="99_ASSETS/VISUALS/logo_valitas_core.svg" width="180" alt="VALITAS JUSTICE">
-  <br>
-</div>
-
 # BUCH II: VALITAS (RECHT & VERFASSUNG)
 > **Quelle:** Fusion (Valitas English Full Content + GER Core)
 > **Status:** Kompendium / Referenz-Werk
@@ -567,7 +556,6 @@ Bevor du mitbestimmen darfst, wie wir leben, musst du gesehen haben, wie *andere
 ---
 
 
-<a name='02_VERFASSUNG_GESETZE.md'></a>
 >>> MODUL: 02_VALITAS\02_VERFASSUNG_GESETZE.md <<<
 ---
 # DER LOVALIS KODEX: TEIL I (DIE AXIOMATISCHEN GESETZE)
@@ -1008,7 +996,6 @@ Dieses System hat eine eingebaute Selbstzerstörung für den Fall, dass es "bös
 > **ENDE DES VERFASSUNGS-KORPUS**
 
 
-<a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 03_PULS\01_COMPENDIUM.md <<<
 ---
 # BUCH III: PULS (DIE ÖKONOMIE DER RESONANZ)
@@ -1065,10 +1052,6 @@ Wir können nicht mehr Geld haben, als die Erde Waren hergeben kann. Wenn wir ve
 ## KAPITEL 2: DEMURRAGE (DIE UMLAUFSICHERUNG)
 
 ### §3 Die Entropie-Kurve (Geldrost)
-
-> **VISUALISIERUNG:** Demurrage Decay over Time ($)
-> <br><img src="99_ASSETS/VISUALS/diagram_demurrage_curve.svg" width="100%">
-<br>
 
 **Logik (Das Axiom):**
 Alles in der Natur zerfällt (Brot schimmelt, Eisen rostet). Nur Geld war bisher "unsterblich" und vermehrte sich sogar durch Zinsen. Dieser Fehler führte dazu, dass Reiche immer reicher wurden, ohne zu arbeiten. Lovalis führt den natürlichen Zerfall für Geld ein.
@@ -1159,7 +1142,6 @@ Steuern zahlst du nur, wenn du konsumierst – und zwar vor allem dann, wenn du 
 > **ENDE BUCH III: PULS**
 
 
-<a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 04_SIMULATION\01_COMPENDIUM.md <<<
 ---
 # BUCH IV: SIMULATION (DER PROGNOSTISCHE HORIZONT)
@@ -1297,7 +1279,6 @@ Jedes Gesetz muss diese drei Standard-Simulationen bestehen, um validiert zu wer
 ---
 
 
-<a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 05_VERNETZUNG\01_COMPENDIUM.md <<<
 ---
 # BUCH V: VERNETZUNG (DAS SOZIALE GEWEBE)
@@ -1315,10 +1296,6 @@ Anonymität ist der Nährboden für Verantwortungslosigkeit. Soziale Kontrolle d
 ---
 
 ## KAPITEL 1: DIE CLUSTER-TOPOLOGIE (DIE DUNBAR-GRENZE)
-
-> **VISUALISIERUNG:** Dunbar-Cluster Mitosis & Routing
-> <br><img src="99_ASSETS/VISUALS/diagram_cluster_topology_v2.svg" width="100%">
-<br>
 
 ### §1 Das Gesetz der Sozialen Dichte (Cluster Size)
 
@@ -1409,7 +1386,6 @@ Er muss nicht ins Gefängnis und verliert sein Haus nicht. Aber niemand lädt ih
 > **ENDE BUCH V: VERNETZUNG**
 
 
-<a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 06_TRANSITION\01_COMPENDIUM.md <<<
 ---
 # BUCH VI: TRANSITION (DER MASTERPLAN)
@@ -1522,7 +1498,6 @@ Das alte System ist krank (Schuldenkrise). Wir bauen eine Quarantäne-Wand. Wenn
 > **ENDE BUCH VI: TRANSITION**
 
 
-<a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 07_TOOLBOX\01_COMPENDIUM.md <<<
 ---
 # BUCH VII: TOOLBOX (DIE SYSTEM-WERKZEUGE)
@@ -1695,6 +1670,5 @@ Das ist dein digitaler Tresor zum Anfassen. Eine kleine Box in deinem Haus, die 
 
 
 ---
-> **END OF GOLD MASTER**
+> **ENDE DES GOLD MASTERS**
 > *Libertas per Structuram*
-
