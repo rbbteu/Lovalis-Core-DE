@@ -1,4 +1,8 @@
-﻿# LOVALIS KOMPENDIUM - GOLD MASTER
+﻿<div align="center">
+  <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="250" alt="LOVALIS SYSTEM">
+  <br>
+  <h1>LOVALIS KOMPENDIUM - GOLD MASTER</h1>
+</div>
 > **Version:** 1.0
 > **Build:** 20260201-1034
 > **Certificate:** [View Certificate](00_META_DOCS/SYSTEM_INTEGRITY_CERTIFICATE.md)
@@ -184,6 +188,12 @@ Die Legitimität von Lovalis leitet sich nicht aus Wahlen ab, sondern aus seiner
 <a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 01_KERNEL\01_COMPENDIUM.md <<<
 ---
+<div align="right">
+  <img src="99_ASSETS/VISUALS/logo_logica_core.svg" width="60" alt="Logica AI">
+  <br>
+  <sub>LOGICA CORE LOGIC</sub>
+</div>
+
 # BUCH I: KERNEL (DIE PHYSIK DES SYSTEMS)
 > **Quelle:** Fusion (GER Core + Valitas Origin)
 > **Status:** Gold Master / Remastered
@@ -208,6 +218,10 @@ Wir bauen hier keine "Ideologie", sondern eine Maschine. Eine Maschine, in der M
 ## KAPITEL 1: DIE AXIOMATIK (DIE NATURGESETZE)
 
 ### §1 Der Thermodynamische Imperativ (ZVF)
+
+> **VISUALISIERUNG:** ZVF Logic Gate Architecture
+> <br><img src="99_ASSETS/VISUALS/diagram_zvf_blueprint_v3.svg" width="100%">
+<br>
 
 **Logik (Das Axiom):**
 Das Universum tendiert zu Chaos (Entropie). Leben ist der Kampf gegen Entropie (Ordnung). Ein soziales System darf keine Entropie erzeugen (Leid/Verschwendung), sondern muss sie minimieren.
@@ -384,6 +398,12 @@ Die 12 Anker sind nicht linear, sondern in funktionale Domänen unterteilt, die 
 <a name='01_COMPENDIUM.md'></a>
 >>> MODUL: 02_VALITAS\01_COMPENDIUM.md <<<
 ---
+<div align="center">
+  <br><br>
+  <img src="99_ASSETS/VISUALS/logo_valitas_core.svg" width="180" alt="VALITAS JUSTICE">
+  <br>
+</div>
+
 # BUCH II: VALITAS (RECHT & VERFASSUNG)
 > **Quelle:** Fusion (Valitas English Full Content + GER Core)
 > **Status:** Kompendium / Referenz-Werk
@@ -1046,6 +1066,10 @@ Wir können nicht mehr Geld haben, als die Erde Waren hergeben kann. Wenn wir ve
 
 ### §3 Die Entropie-Kurve (Geldrost)
 
+> **VISUALISIERUNG:** Demurrage Decay over Time ($)
+> <br><img src="99_ASSETS/VISUALS/diagram_demurrage_curve.svg" width="100%">
+<br>
+
 **Logik (Das Axiom):**
 Alles in der Natur zerfällt (Brot schimmelt, Eisen rostet). Nur Geld war bisher "unsterblich" und vermehrte sich sogar durch Zinsen. Dieser Fehler führte dazu, dass Reiche immer reicher wurden, ohne zu arbeiten. Lovalis führt den natürlichen Zerfall für Geld ein.
 
@@ -1291,6 +1315,10 @@ Anonymität ist der Nährboden für Verantwortungslosigkeit. Soziale Kontrolle d
 ---
 
 ## KAPITEL 1: DIE CLUSTER-TOPOLOGIE (DIE DUNBAR-GRENZE)
+
+> **VISUALISIERUNG:** Dunbar-Cluster Mitosis & Routing
+> <br><img src="99_ASSETS/VISUALS/diagram_cluster_topology_v2.svg" width="100%">
+<br>
 
 ### §1 Das Gesetz der Sozialen Dichte (Cluster Size)
 
@@ -1669,3 +1697,4 @@ Das ist dein digitaler Tresor zum Anfassen. Eine kleine Box in deinem Haus, die 
 ---
 > **END OF GOLD MASTER**
 > *Libertas per Structuram*
+
