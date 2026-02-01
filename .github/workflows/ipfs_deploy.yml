@@ -19,9 +19,8 @@ jobs:
         with:
           path: './'
           service: pinata
-          pinataKey: ${{ secrets.PINATA_API_KEY }} # Fallback (nicht genutzt wenn JWT da ist)
-          pinataSecret: ${{ secrets.PINATA_SECRET_KEY }} # Fallback
-          pinataJWT: ${{ secrets.PINATA_JWT }} # DER WICHTIGE KEY
+          pinataKey: ${{ secrets.PINATA_API_KEY }}
+          pinataSecret: ${{ secrets.PINATA_SECRET_KEY }}
           verbose: true
 
       - name: Output IPFS Hash
