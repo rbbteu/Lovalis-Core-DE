@@ -1,4 +1,8 @@
-﻿# LOVALIS MANIFEST: LIBERTAS PER STRUCTURAM
+﻿<div align="center">
+  <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="200" alt="LOVALIS MANIFEST">
+  <br>
+  <h1>LOVALIS MANIFEST: LIBERTAS PER STRUCTURAM</h1>
+</div>
 > **Version:** 1.0 (Declaration of Axioms)
 > **Typus:** Fundamentales System-Postulat
 > **Status:** Unveränderlich
@@ -25,6 +29,10 @@ Wir definieren Lovalis nicht durch das, was es ist, sondern durch das, was es **
 
 ## ARTIKEL II: DIE AXIOMATISCHE BASIS (E > Ö > T)
 
+> **VISUALISIERUNG:** Die Axiomatische Hierarchie
+> <br><img src="99_ASSETS/VISUALS/diagram_zvf_blueprint_v3.svg" width="100%">
+<br>
+
 Die Architektur ruht auf einer nicht-invertierbaren Hierarchie der Werte:
 
 1.  **E (Ethik/Leid):** Das Minimieren von bewusstem Leid ($L_{min}$) ist die oberste Direktive. Ein System, das Leid erzeugt, um Profit zu generieren, ist ein *Malware-System*.
@@ -49,3 +57,4 @@ Dies ist kein Vorschlag. Dies ist eine Spezifikation für das Überleben der men
 
 
 > [Zur Axiomatik (Kernel)](01_KERNEL/01_COMPENDIUM.md)
+
