@@ -68,6 +68,9 @@ Geld (Puls) misst nur ökonomische Tauschkraft. Es misst nicht, ob jemand ein "g
     * *Wisdom:* Wurden Konflikte erfolgreich geschlichtet?
 * **Decay (Halbwertszeit):** Rep-Punkte verfallen schneller als Geld ($t_{1/2} = 6 \text{ Monate}$). Man kann keinen "Ruf" horten, man muss ihn pflegen.
 * **Privilegien:** Ein hoher Score schaltet *Social Perks* frei (z.B. Bevorzugung bei der Vergabe von Gemeinschaftsgärten oder zinslose Allmende-Kredite).
+* **Shadow Mode (Privacy):** Ein Node kann seinen Score verbergen.
+    * *Effekt:* Kein sozialer Druck, aber Verlust von *Social Perks* (Privilegien).
+    * *Zweck:* Schutz für Non-Konformisten und Introvertierte vor dem "Bewertungs-Gefängnis".
 
 **Was bedeutet das?**
 Das ist dein "Karma-Konto".
@@ -76,6 +79,32 @@ Wenn du dann mal Hilfe brauchst oder ein Werkzeug leihen willst, sehen alle: "De
 
 ---
 
+## WERKZEUG 8: NODE GUARDIAN (DER TECHNIK-PATE)
+
+### Kategorie: Inklusion & Hardware-Support
+
+**Logik (Das Axiom):**
+Souveränität darf nicht an technischer Kompetenz scheitern.
+Ein System, das nur von Ingenieuren bedient werden kann, ist exklusiv und damit entropisch.
+
+**Technische Spezifikation (Das Protokoll):**
+* **Die Rolle:** Technisch versierte Nodes können sich als "Guardian" registrieren.
+* **Das Mandat:** Ein Guardian übernimmt die Wartung (Updates, Hardware-Check) für bis zu 5 "Schützlinge" (z.B. Senioren).
+* **Der Schutz (Zero-Knowledge-Maintenance):**
+    * Der Zugriff erfolgt über ein spezielles *Maintenance-Token*.
+    * Der Guardian sieht System-Status (Temperatur, Speicher, Updates), aber **keine Inhalte** (Chats, Finanzen).
+    * Jeder Zugriff wird im *Resonance Ledger* unveränderbar protokolliert.
+* **Incentivierung:** Guardian-Tätigkeit generiert hohen *Rep-Score* (Soziale Resonanz).
+    * **Term Limits (Anti-Elite):**
+    * Ein Node darf maximal **8 Jahre** als Guardian dienen. Danach: 2 Jahre Zwangspause.
+    * Cluster müssen aktiv Nachwuchs ausbilden (Apprenticeship), um Wissens-Monopole zu verhindern.
+
+**Was bedeutet das?**
+Deine Oma muss nicht wissen, wie man einen Server patcht.
+Ihr Nachbar (der Guardian) kümmert sich darum, dass ihre Box läuft.
+Er kann aber ihre Briefe nicht lesen. Sie bleibt souverän, er hilft ihr, und das System belohnt ihn dafür. Technik wird zur sozialen Brücke, nicht zur Hürde.
+
+---
 ## PLATZHALTER: WEITERE WERKZEUGE (COMING SOON)
 *(Werden in Phase 2 spezifiziert)*
 
@@ -121,6 +150,11 @@ Moderne Debatten (Social Media) zielen auf die *Vernichtung* des Gegners, nicht 
 * **Validierung:** Node B muss diese Zusammenfassung mit "ACK" (Acknowledge) bestätigen ("Ja, das ist, was ich meine").
 * **Freigabe:** Erst nach diesem Handshake wird das Mikrofon/Eingabefeld für Node A freigegeben.
 * **Sanktion:** Wer beleidigt oder strohmannt, wird vom Algorithmus stummgeschaltet ("Invalid Input").
+    * **Eskalations-Stufen (Tier-System):**
+    * *Tier 1 (Casual):* Freies Reden, kein Zwang (z.B. Stammtisch).
+    * *Tier 2 (Council):* Contract aktiv bei Budget-Entscheidungen.
+    * *Tier 3 (Constitutional):* Contract + Moderation bei Verfassungs-Änderungen.
+* **Vent-Valve:** Erlaubt 10 Minuten "Dampf ablassen" (ungefilterte Emotion) vor der Debatte.
 
 **Was bedeutet das?**
 Wir zwingen die Leute zum Zuhören. Du darfst erst widersprechen, wenn du bewiesen hast, dass du verstanden hast, was der andere meint. Das tötet das "Schreien" und fördert das "Reden". Es macht Diskussionen anstrengender, aber viel produktiver.
@@ -152,7 +186,11 @@ Dein Hausarzt ist jetzt eine KI in deinem Keller, die niemanden anruft, aber auf
 Software-Souveränität (Code) erfordert Hardware-Souveränität (Physik). Wer seine Daten auf fremden Servern (Amazon/Google) speichert, ist ein digitaler Leibeigener. Jeder Bürger benötigt einen eigenen, physischen Server.
 
 **Technische Spezifikation (Das Protokoll):**
-* **Spezifikation:** Ein standardisierter, energieeffizienter Home-Server (basierend auf RISC-V Architektur, Open Hardware).
+* **Spezifikation:** Ein standardisierter, energieeffizienter Home-Server (RISC-V, Open Hardware).
+* **Hardware-Attestation (Anti-Backdoor):**
+    * Beim Bootvorgang sendet Node One einen kryptografischen Hash seines Firmware-Stands an das Cluster.
+    * Dieser wird mit der öffentlichen *Community-Referenz* abgeglichen.
+    * **Alarm:** Bei Abweichung (modifizierte Firmware) wird der Node als "Untrusted" markiert und isoliert.
 * **Funktionen:**
     * Hosting des *V-Gate*.
     * Speicherung der *Bio-Daten*.
@@ -165,3 +203,8 @@ Das ist dein digitaler Tresor zum Anfassen. Eine kleine Box in deinem Haus, die 
 
 ---
 > **ENDE BUCH VII: TOOLBOX (VOLLSTÄNDIG)**
+
+
+
+
+

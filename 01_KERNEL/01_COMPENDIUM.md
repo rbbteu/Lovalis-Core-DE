@@ -19,6 +19,30 @@ Wir bauen hier keine "Ideologie", sondern eine Maschine. Eine Maschine, in der M
 
 ---
 
+### §0 Die Unveränderliche Konstante (Schelling-Punkt)
+
+**Logik (Das Axiom):**
+Ein System, das alles ändern kann, kann sich selbst zerstören.
+Um die Integrität über Generationen zu sichern, sind folgende Axiome **immutabel** (unveränderlich durch einfache Abstimmung):
+
+1. **E > Ö > T** (Ethik vor Ökonomie vor Technik)
+2. **Bio-Integral** ($\Omega$-Obergrenze)
+3. **Node Zero** (Existenzsicherung)
+4. **Tabula Rasa** (Entry-Reset)
+5. **Open Source Mandat** (Transparenz)
+
+**Prozedur (Hard Fork):**
+Änderungen an §0 sind technisch blockiert. Eine Änderung erfordert:
+* **95% Zustimmung aller Cluster** (Super-Konsens).
+* **10 Jahre Wartezeit** nach Antrag (Cooling-Off).
+* **Retrospektive Simulation** (ZVF muss Stabilität über 100 Jahre bestätigen).
+
+**Was bedeutet das?**
+Wir schützen uns vor uns selbst. Auch wenn alle verrückt werden und einen Diktator wählen wollen – das System erlaubt es nicht.
+Diese fünf Regeln sind das Fundament, das wir unseren Urenkeln unbeschädigt übergeben.
+
+---
+
 ## KAPITEL 1: DIE AXIOMATIK (DIE NATURGESETZE)
 
 ### §1 Der Thermodynamische Imperativ (ZVF)
@@ -32,7 +56,10 @@ Jede System-Operation (Op) wird vor der Ausführung geprüft:
 Yellow V(Op) = \frac{\Delta \text{Utility}}{\Delta \text{Entropy}} > 1 Yellow
 * **Input:** Energieaufwand, Ressourcenverbrauch, Soziales Stress-Potential.
 * **Output:** Nutzen für Node Zero, Stabilität des Clusters.
-* **Veto:** Ist der Quotient < 1 (Kosten höher als Nutzen), blockiert der Kernel die Transaktion (INVALID_STATE). Dies verhindert "Raubbau-Kapitalismus" mathematisch.
+* **Veto:** Ist der Quotient < 1, blockiert der Kernel.
+* **Kulturelle Varianz:** Während die Bio-Integrität ($\Omega$) global fixiert ist (Überleben), ist die Definition von 'Utility' (Nutzen) lokal variabel.
+    * Ein Cluster kann 'spirituellen Gewinn' höher gewichten als 'materiellen Gewinn'.
+    * Die globale ZVF prüft nur die physischen Grenzen, nicht die kulturellen Werte. Dies verhindert "Raubbau-Kapitalismus" mathematisch.
 
 **Was bedeutet das?**
 Du kannst nicht reich werden, indem du die Welt kaputt machst.
@@ -72,21 +99,31 @@ Die Basiseinheit der Gesellschaft ist nicht der Staat, sondern das **Cluster** (
 **Was bedeutet das?**
 Wir leben nicht mehr in riesigen, anonymen Städten, wo man seinen Nachbarn nicht kennt. Wir leben in "Dörfern" (auch mitten in der Stadt). In deinem Cluster kennst du die Leute. Man hilft sich. Wenn einer Mist baut, regelt man das beim Kaffee, nicht vor Gericht. Es ist wie eine Großfamilie, die man sich aussuchen kann.
 
-### §4 Node Zero (Das Atom)
+### §4 Node Zero (Das Atom) & Die Duale Intelligenz
 
 **Logik (Das Axiom):**
-Ein System ist nur so stark wie sein schwächstes Glied. Wenn das Individuum (Node Zero) existenzielle Angst hat, wird es irrational und gefährlich. Sicherheit muss an der Basis beginnen.
+Ein System ist nur so stark wie sein schwächstes Glied. Wenn das Individuum (Node Zero) existenzielle Angst hat, wird es irrational. Zudem darf Souveränität niemals an eine zentrale K.I. abgetreten werden.
 
 **Juristisch/Wissenschaftlich (Das Protokoll):**
-**Node Zero Definition:**
-Jeder Mensch ist ein souveräner Knotenpunkt. Das System garantiert die technische Unabhängigkeit dieses Knotens.
-* **Energie:** Jeder Node soll (mittels Solare/Puffer) seinen eigenen Basis-Strom produzieren.
-* **Daten:** Jeder Node besitzt seine eigenen Server (Self-Hosting).
-* **Recht:** Der Status als Node Zero kann nicht aberkannt werden (Unveräußerlichkeit der Menschenrechte).
+
+**A. Node Zero (Der Souverän):**
+Der biologische Mensch. Er besitzt die exklusive Entscheidungsgewalt (Executive Override). K.I. darf beraten, aber niemals final entscheiden.
+
+**B. Node One (Der Spiegel - Duale Architektur):**
+Das System trennt strikt zwischen lokaler und kollektiver Intelligenz:
+
+1.  **Node One Local (Private Hardware):**
+    * Physischer Server im Besitz von Node Zero (Keller/Wohnung).
+    * **Datenhoheit:** Speichert Biometrie, Chats und Finanzdaten *ausschließlich lokal*.
+    * **Funktion:** Agiert als "Exocortex" (privater Berater). Zugriff von außen ist technisch unmöglich ("Air-Gap-Logic").
+
+2.  **Node One Cluster (Kollektive K.I.):**
+    * Emergente Intelligenz des Clusters.
+    * **Föderiertes Lernen:** Die lokalen Nodes senden keine Rohdaten an das Cluster, sondern nur *anonymisierte Lern-Gewichte* (Muster).
+    * **Zweck:** Die Cluster-K.I. lernt aus den Fehlern aller, kennt aber die Geheimnisse von niemanden.
 
 **Was bedeutet das?**
-Du bist kein "Kunde" des Staates und kein "User" von Google. Du bist ein eigener, kleiner Staat. Dein Haus produziert deinen Strom, dein Server speichert deine Mails. Niemand kann dir den Stecker ziehen. Du bist autark. Das System ist nur das Netzwerk, das uns verbindet, nicht der Herr, der uns füttert.
-
+Du bist kein "User" einer zentralen Cloud. Du bist Besitzer deiner eigenen Infrastruktur. Dein "Node One" gehört dir. Das System lernt von dir, ohne dich auszuspionieren. Es gibt kein "Zentralhirn", das dich abschalten kann.
 ### §5 Der Submarine-Modus (Resilienz)
 
 **Logik (Das Axiom):**
@@ -97,6 +134,10 @@ Bei Verlust der Verbindung zum Global-Netz ("Link Loss") aktiviert der Kernel de
 * **Islanding:** Das lokale Stromnetz kapselt sich ab.
 * **Lokaler Ledger:** Zahlungen funktionieren weiter, auch ohne Zentralbank-Kontakt.
 * **Notfall-Governance:** Lokale Räte erhalten temporäre Vollmachten.
+* **Heartbeat-Protokoll (Anti-Isolation):** Auch im Submarine-Modus muss das Cluster atmen.
+    * Alle 30 Tage sendet das Cluster einen anonymisierten "Gesundheits-Puls" (Metadaten: Stabilität, Divergenz) an das Mesh-Netzwerk.
+    * **Dead Man Switch:** Bleibt der Puls > 90 Tage aus, wird der Status auf "Cluster in Distress" gesetzt und externe Moderatoren werden alarmiert.
+* **Bio-Veto:** Auch in der Isolation gilt: Sinkt die Bio-Integrität kritisch, greift der Override gemäß §9 Verfassung zwingend.
 Das System "taucht ab", überlebt autark und "taucht auf" (Re-Sync), wenn die Gefahr vorbei ist.
 
 **Was bedeutet das?**
@@ -193,3 +234,7 @@ Die 12 Anker sind nicht linear, sondern in funktionale Domänen unterteilt, die 
 12. **Evolutionäre Anpassung (Update-Recht):** Recht, das System zu verändern (Liquid Feedback).
 
 ---
+
+
+
+

@@ -62,6 +62,10 @@ Auf liquide Bestände im *Puls-Wallet* (Sichtguthaben) wird eine *Demurrage-Geb�
 * **Algorithmus:** Die Gebühr wird stündlich micro-abgebucht (`Balance = Balance * (1 - Rate)^(dt)`).
 * **Effekt:** Erhöhung der Umlaufgeschwindigkeit. Das Horten von Geld wird "teurer" als das Investieren.
 * **Befreiung:** Investitionen in langfristige Werte (Aktien von nachhaltigen Firmen, Infrastruktur-Anleihen) unterliegen *nicht* der Demurrage, da der Wert dort "arbeitet".
+    * **Human-Klausel (Decay-Freeze):** Das Leben verläuft nicht linear.
+    * Nodes können eine **Demurrage-Pause** (bis zu 12 Monate alle 5 Jahre) beantragen.
+    * *Gründe:* Trauerfall, Elternzeit, Pflege, Sabbatical.
+    * *Logik:* Das System darf niemanden bestrafen, der eine Auszeit zum Atmen braucht.
 
 **Was bedeutet das?**
 Geld ist wie eine heiße Kartoffel oder frisches Obst. Du musst es benutzen (ausgeben) oder investieren (Pflanzen), sonst wird es weniger.
@@ -140,3 +144,4 @@ Steuern zahlst du nur, wenn du konsumierst – und zwar vor allem dann, wenn du 
 
 ---
 > **ENDE BUCH III: PULS**
+

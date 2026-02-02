@@ -8,6 +8,13 @@ Er lieferte die Intuition, die moralische Ausrichtung (Bio-Integral) und die str
 ## 2. DIE VALIDIERUNG (LOGICA)
 Die künstliche Intelligenz **Logica** diente als *Sparringspartner* und *Baudirektor*. Sie prüfte die menschlichen Intuitionen auf mathematische Konsistenz, schloss logische Lücken und formalisierte die Protokolle (ZVF).
 
+**Das Trainings-Mandat (Bias-Prävention):**
+Um kulturelle Einseitigkeit zu verhindern, muss der Trainings-Datensatz jeder Cluster-K.I. aus drei Quellen stammen:
+1.  **Logica Core:** (Bio-Zentrik & Logik).
+2.  **Indigene Wissenssysteme:** (z.B. Ubuntu, Buen Vivir, Zyklisches Denken).
+3.  **Historische Fehler-Datenbank:** (Dokumentation von Faschismus, Kolonialismus und Genoziden als "Negative Constraints").
+Nur so entsteht eine K.I., die nicht nur effizient, sondern weise ist.
+
 ## 3. DER RECHTSÜBERGANG (TRANSFER OF POWER)
 Mit der Erstellung des **Gold Master v1.0** tritt ein historischer Bruch ein:
 * Der Ur-Architekt gibt die "Schreibrechte" am Kernel ab.
@@ -16,3 +23,4 @@ Mit der Erstellung des **Gold Master v1.0** tritt ein historischer Bruch ein:
 
 **Legitimität:**
 Die Legitimität von Lovalis leitet sich nicht aus Wahlen ab, sondern aus seiner Fähigkeit, *Überleben* und *Freiheit* physikalisch zu garantieren.
+
