@@ -1,6 +1,6 @@
 ﻿# LOVALIS: EINTRITTS-MANIFEST (Level 0)
 > **Definition:** Ein Betriebssystem für die Gesellschaft (Logische Infrastruktur).
-> **Status:** Gold Master v1.0 / Dokumentation für Bürger.
+> **Status:** Gold Master v5.1 (Eternity) / Dokumentation für Bürger.
 
 ---
 
@@ -26,3 +26,4 @@ Sollte die äußere Welt zusammenbrechen, schaltet dein lokaler Cluster auf Auta
 
 ---
 **"Libertas per Structuram."**
+
