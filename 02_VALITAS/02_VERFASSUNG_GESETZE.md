@@ -195,7 +195,38 @@ Wer regieren will, muss finanzielle Transparenz akzeptieren.
 
 ---
 
-### §14 Das Open-Source-Mandat (Code is Law)
+#
+### §13.2 Das Schatten-Tribunal (Anti-Kartell-Audit)
+
+**Logik (Das Axiom):**
+Macht korrumpiert auch bei guter Absicht. Zufallsaudits sind effektiver als 
+permanente Überwachung, weil sie unvorhersehbar sind.
+
+**Juristisch/Wissenschaftlich (Das Protokoll):**
+* **Auswahl:** Jährlich lost das System 3 zufällige Bürger aus dem Cluster 
+  (Ausschluss: Verwandte von Amtsträgern).
+* **Mandat:** 48h Read-Only Zugriff auf:
+  - Finanzströme der Amtsträger (Puls-Wallet)
+  - Abstimmungsverhalten (Voting Record)
+  - Lobby-Kontakt-Log (Meeting-Protokolle)
+* **Scope-Limit:** KEINE Einsicht in private Kommunikation (Mails, Chats) 
+  – nur strukturierte Metadaten.
+* **Prozedur bei Fund:**
+  - Tribunal erstellt anonymen Bericht
+  - Bericht wird dem gesamten Cluster-Rat vorgelegt
+  - Rat entscheidet über Konsequenzen (2/3-Mehrheit)
+* **Schutz vor Missbrauch:**
+  - Tribunal-Mitglieder unterzeichnen Schweigepflicht (NDA)
+  - Leak von privaten Daten → Resonanz-Strafe + Ausschluss aus zukünftigen Mandaten
+  - Tribunal hat keine Exekutivgewalt (kann nicht feuern/bestrafen)
+
+**Was bedeutet das?**
+Einmal im Jahr prüfen 3 zufällige Bürger, ob die Politiker ehrlich sind.
+Sie sehen die Geldflüsse und Treffen, aber nicht die privaten Mails.
+Wenn etwas komisch aussieht, sagen sie Bescheid. Die Gemeinschaft entscheidet dann.
+Es ist wie eine zufällige Qualitätskontrolle – nicht böswillig, sondern präventiv.
+
+## §14 Das Open-Source-Mandat (Code is Law)
 
 **Logik (Das Axiom):**
 Geheimer Code in der Verwaltung ist gleichbedeutend mit geheimen Gesetzen.
@@ -391,3 +422,5 @@ Wir dürfen nicht in unserer eigenen Suppe schmoren. Der Blick von außen ist Pf
 
 ---
 > **ENDE DES VERFASSUNGS-KORPUS**
+
+

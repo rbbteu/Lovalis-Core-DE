@@ -35,6 +35,35 @@ Das System bietet **"Hard Modes"** für Nodes, die an der Perfektion leiden:
 
 ---
 
+
+### §2.4 DER BADGE-DECAY (Anti-Elite-Mechanismus)
+
+**Logik (Das Axiom):**
+Status ist eine Währung der Gegenwart, nicht der Vergangenheit.
+Um permanente informelle Aristokratien zu verhindern, muss sozialer Status 
+"frisch gehalten" werden.
+
+**Juristisch/Wissenschaftlich (Das Protokoll):**
+* **Halbwertszeit:** Alle Challenge-Badges (Survival Year, Epic Quest, etc.) 
+  haben eine Halbwertszeit von 6 Monaten.
+* **Decay-Formel:** Badge_Value(t) = Badge_Value(0) * (1/2)^(t / 6 Monate)
+* **Auffrischung:** Ein Badge kann durch erneute Challenge-Teilnahme "erneuert" werden.
+  - Nicht identische Challenge nötig (Survival Year → Epic Quest ist valide)
+  - Ziel: Kontinuierlicher Beitrag, nicht Wiederholung
+* **Vollständiger Verfall:** Nach 24 Monaten (4 Halbwertszeiten) ist Badge_Value < 10% → Badge wird archiviert.
+  - Archivierte Badges bleiben in der persönlichen Historie sichtbar (Erinnerung)
+  - Aber sie zählen nicht mehr für Social Perks
+* **Rationale:** - Verhindert "Ruhestands-Elite" (Menschen, die vor 20 Jahren Challenges gemacht haben)
+  - Fördert kontinuierliches Engagement
+  - Schützt soziale Mobilität kommender Generationen
+
+**Was bedeutet das?**
+Deine Badges sind wie eine Pflanze – du musst sie gießen (neue Challenges), 
+sonst verwelken sie.
+Ein Survival Year vor 10 Jahren macht dich nicht heute vertrauenswürdig.
+Aber du kannst jederzeit neue Challenges machen und deinen Status auffrischen.
+Das System zwingt dich nicht – aber es belohnt kontinuierlichen Beitrag.
+
 ## KAPITEL 3: DAS GENERATIONEN-VERMÄCHTNIS
 
 ### §3 Die Initiations-Riten (Gegen das Vergessen)
@@ -47,3 +76,5 @@ Jeder Teenager (14-16 Jahre) durchläuft das **"Legacy-Seminar"**:
 ---
 > **ENDE BUCH VIII**
 > *"Wenn wir alle sicher sind – wofür leben wir dann? Das ist eure Antwort."*
+
+

@@ -135,8 +135,9 @@ Bei Verlust der Verbindung zum Global-Netz ("Link Loss") aktiviert der Kernel de
 * **Lokaler Ledger:** Zahlungen funktionieren weiter, auch ohne Zentralbank-Kontakt.
 * **Notfall-Governance:** Lokale Räte erhalten temporäre Vollmachten.
 * **Heartbeat-Protokoll (Anti-Isolation):** Auch im Submarine-Modus muss das Cluster atmen.
-    * Alle 30 Tage sendet das Cluster einen anonymisierten "Gesundheits-Puls" (Metadaten: Stabilität, Divergenz) an das Mesh-Netzwerk.
-    * **Dead Man Switch:** Bleibt der Puls > 90 Tage aus, wird der Status auf "Cluster in Distress" gesetzt und externe Moderatoren werden alarmiert.
+* **Dead Man Switch:** Bleibt der Puls > 45 Tage aus, wird der Status auf "Cluster in Distress" gesetzt.
+    * **Ausnahme-Klausel (automatisch):** Sind >30% der Nodes offline (kein Heartbeat), gilt die Verlängerung als automatisch genehmigt (Notfall-Präsumption bei Naturkatastrophen).
+    * **Notstands-Verlängerung (demokratisch):** Alternativ kann der Timer einmalig um weitere 45 Tage verlängert werden, wenn 2/3 der online-verfügbaren Nodes dies signieren. Dies schützt Cluster im Graubereich (20-30% offline) vor Eskalationen.
 * **Bio-Veto:** Auch in der Isolation gilt: Sinkt die Bio-Integrität kritisch, greift der Override gemäß §9 Verfassung zwingend.
 Das System "taucht ab", überlebt autark und "taucht auf" (Re-Sync), wenn die Gefahr vorbei ist.
 
@@ -234,6 +235,9 @@ Die 12 Anker sind nicht linear, sondern in funktionale Domänen unterteilt, die 
 12. **Evolutionäre Anpassung (Update-Recht):** Recht, das System zu verändern (Liquid Feedback).
 
 ---
+
+
+
 
 
 
