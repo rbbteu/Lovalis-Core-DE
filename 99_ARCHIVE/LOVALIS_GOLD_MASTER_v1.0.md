@@ -1,4 +1,4 @@
-﻿<div align='center'><img src='99_ASSETS/VISUALS/logo_lovalis_master.svg' width='250'><br><h1>LOVALIS KOMPENDIUM - GOLD MASTER</h1></div>
+﻿<div align='center'><img src='VISUALS/logo_lovalis_master.svg' width='250'><br><h1>LOVALIS KOMPENDIUM - GOLD MASTER</h1></div>
 
 > **Version:** 1.0 (Final Sealed)
 > **Status:** GOLD MASTER (AUDITED)
